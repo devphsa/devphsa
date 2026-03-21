@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAyZGJwaGM0bG4yYnNidTRwcHp5ajBhb2dpNmVzanNsdmI1YWJmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/almeidapedro-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/almeidapedro-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/22768148/phzin" target="_blank">
@@ -14,10 +14,10 @@
   <a href="https://www.instagram.com/ph.29_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="56pedro1234@gmail.com" target="_blank">
+  <a href="http://ailto:56pedro1234@gmail.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="ph29#8261" target="_blank">
+  <a href="https://discordapp.com/users/ph29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -70,6 +70,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devphsa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
