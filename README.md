@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Pedro from São Paulo, Brazil<br><br>* 🔭 I’m working as a Support Analyst at Dell<br>* 📚 I’m currently learning Docker<br>* ⚡ In my free time I study<br>* 🎯 My goal is to transition into web development with PHP and eventually work abroad</p>
+<p align="left">I'm Pedro from São Paulo, Brazil<br><br>* 🔭 I’m working as a Support Analyst at Dell<br>* 📚 I’m currently learning Docker and Rest API<br>* ⚡ In my free time I study<br>* 🎯 My goal is to transition into web development with PHP and eventually work abroad</p>
 
 ###
 
@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
